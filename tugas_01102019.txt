@@ -1,0 +1,2 @@
+1. install httpie
+2. bikin http server , list dir, move dir
